@@ -1,0 +1,63 @@
+body{
+    text-align: justify;
+    background-color: #444444;
+}
+
+h1{
+    font-weight: bold;
+    text-shadow: 2px 2px 10px black;
+    text-align: center;
+}
+
+.vonalHeader{
+    border-bottom: 2px solid #a7a7a7;
+}
+
+.vonalFooter{
+    border-top: 2px solid #a7a7a7;
+}
+.content{
+    background-color: lightgray;
+    margin: auto;
+    width: 70%;
+}
+
+.links{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.listed table {
+    border-collapse: collapse;
+    border-style: hidden;
+  }
+.listed table td {
+    border: 2px solid #a7a7a7;
+}
+
+p{
+    padding-left: 20px;
+}
+
+/*felvétel*/
+.felvetel{
+    padding: 20px;
+}
+
+.ertekeles{
+    padding: 10px;
+}
+
+.ertekeles tr {
+    border: none;
+    height: 40px;
+}
+
+.ertekeles table td{
+    border-bottom: 1px solid #a7a7a7;
+    padding-left: 10px;
+}
+
+.ertekeles tr td:first-child {
+    font-weight: bold;
+}
